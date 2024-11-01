@@ -1,13 +1,11 @@
 - Welcome to My GitHub 👋
-Hey there! I'm a passionate software engineer on the journey to complete my bachelor's degree in the exciting world of Artificial Intelligence and Machine Learning (AIML). My tech interests also stretch into the cloud computing realm and the art of crafting beautiful front-end designs. Thanks for dropping by my GitHub repository – it's like a virtual playground where I showcase my tech adventures!
+Hey there! I'm a passionate software engineer on the journey to complete my bachelor's degree in the exciting world of Artificial Intelligence and Machine Learning (AIML). My tech interests also stretch into art of crafting beautiful front-end designs. Thanks for dropping by my GitHub repository.
 
 - Who Am I?
 I'm not just another coder; I'm someone who believes in the power of technology to change the world. I'm currently blending my academic pursuits with real-world projects and hands-on experiences, and I'm thrilled to share my journey with you.
 
 - What to Expect
 Here's a sneak peek of what you'll find in my GitHub:
-
-Cloud Adventures ☁️: Dive into the cloud with me! I've tinkered with platforms like AWS, Azure, and Google Cloud to create scalable, reliable, and mind-blowing cloud-based solutions. Expect to find projects that are a testament to my cloud-curious nature.
 
 Front-End Wonderland 🎨: User interfaces that pop and make you go "Wow!" are my thing. You'll discover projects that showcase my love for design and proficiency in HTML, CSS, JavaScript, and other cool front-end frameworks.
 
